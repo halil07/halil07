@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NestJs
+- 🔭 I’m currently working on Pure Javascript
 - 🌱 I’m currently learning Webassembly
 
 <!--

@@ -2,15 +2,20 @@
 - 🔭 I’m currently working on Pure Javascript
 - 🌱 I’m currently learning Webassembly
 
-<!--
-**halil07/halil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Halil Ceyhan, a full-stack software developer, technical writer from Ankara TR. I currently work as a front end engineer for [SEBIT](https://www.sebit.com.tr/index-en.html)
 
-Here are some ideas to get you started:
+### Around the web
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [halilceyhan@yandex.com](mailto:halilceyhan@yandex.com)
+- GitHub: [halil07](https://github.com/halil07)
+- Gitlab: [halilceyhan](https://gitlab.com/halilceyhan)
+- LinkedIn: [halilceyhan](https://www.linkedin.com/in/halil-ceyhan-735430128/)
+
+
+## Currently Using
+
+- **Hosting:** [Gitlab](https://gitlab.com/halilceyhan)
+- **Domain:** [Name](https://halilceyhan.com)
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
+- **Static site generator (blog):** [Gatsby](https://gatsbyjs.org)
+- **Syntax highlighting:** [PrismJS](http://prismjs.com/)

@@ -19,3 +19,6 @@ I’m Halil Ceyhan, a full-stack software developer, technical writer from Ankar
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Static site generator (blog):** [Gatsby](https://gatsbyjs.org)
 - **Syntax highlighting:** [PrismJS](http://prismjs.com/)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=halil07&show_icons=true&theme=radical" />

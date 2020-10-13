@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Pure Javascript
 - 🌱 I’m currently learning Webassembly
 
-I’m Halil Ceyhan, a full-stack software developer, technical writer from Ankara TR. I currently work as a front end engineer for [SEBIT](https://www.sebit.com.tr/index-en.html)
+I’m Halil Ceyhan, a Senior Frontend Developer, technical writer from Antalya TR. I currently work as a front end engineer for [REWIRE](https://www.rewiresecurity.co.uk/)
 
 ### Around the web
 

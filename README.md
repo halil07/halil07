@@ -7,3 +7,4 @@ I’m Halil Ceyhan, a Senior Frontend Developer, technical writer from Antalya T
 ### Around the web
 
 - Email: [halilceyhan05@gmail.com](mailto:halilceyhan05@gmail.com)
+- Website: [halil07.dev](https://halil07.dev/)
